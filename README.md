@@ -1,4 +1,4 @@
-Extensão criada para melhorar a navegação na sala de aula do programa Hiring Coders, na Gama academy.
+Extensão criada para o Chrome com a intenção de melhorar a navegação na sala de aula do programa Hiring Coders, na Gama academy.
 
 ![Example](/Example.gif) 
 
