@@ -1,0 +1,42 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/fontawesome.min.css")
+.hidden {
+  display: none;
+}
+
+.toggleBtn {
+  margin-left: 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.sidebar-brand > li a:visited {
+  color: lightgray;
+}
+
+li.active a {
+  font-weight: bold;
+  font-size: 15px;
+  color: #63dc3e !important;
+}
+
+.navButtons {
+  margin-top: 20px;
+  padding: 0 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navButtons button {
+  padding: 5px 10px;
+  background-color: #63dc3e;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.navButtons button:disabled {
+  opacity: .2;
+}
+
+

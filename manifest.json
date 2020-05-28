@@ -1,0 +1,19 @@
+{
+  "name": "Gama Enhancer",
+  "version": "0.5",
+  "description": "Enhancer for Hiring Coders virtual classroom",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": [
+        "https://xpcorp.gama.academy/aluno/aulas/*"
+      ],
+      "css": [
+        "styles.css"
+      ],
+      "js": [
+        "main.js"
+      ]
+    }
+  ]
+}
