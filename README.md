@@ -6,7 +6,7 @@ Extensão criada para o Chrome com a intenção de melhorar a navegação na sal
 * Baixe este repo e extraia a pasta
 * Abra a aba de extensões do Chrome
 * Habilite "Developer Mode"
-* Clique em "Load unpacked" e escolha a pasta do repo
+* Clique em "Load unpacked" e escolha a pasta  `src` do repo
 * Desabilite "Developer Mode"
 
 ![HowTo](/HowTo.png) 

@@ -5,10 +5,12 @@
 }
 
 .toggleBtn {
+  margin: 5px;
   margin-left: 15px;
   border: none;
   border-radius: 5px;
   background-color: #fff;
+  padding: 5px 10px;
 }
 
 .sidebar-brand > li a:visited {
