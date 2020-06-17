@@ -95,8 +95,6 @@ function init() {
     const weeksLIs = weeksBar.children;
     const weeksLength = weeksLIs.length;
 
-    console.log(weeksBar, weeksLIs, weeksLength)
-
     const handleWeeksToggle = () => {
       for (let i = 0; i < weeksLength; i++) {
         if (i < weeksLength - 2) {
